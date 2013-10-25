@@ -1,20 +1,16 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package arraystack;
 
 /**
- *
- * @author sethschoenfeld
- */
-// 21.03
-/**
+ /*********************** 
+ * @author- sethschoenfeld
+ * @purpose- create interface for adding and removing array items
+ * @inputs- none
+ * @outputs- none    
+/************************
  * An interface for the ADT stack.
  * 
- * @author Frank M. Carrano
- * @version 2.0
- */
+ 
 public interface StackInterface<T>
 {
   /** Task: Adds a new entry to the top of the stack.
