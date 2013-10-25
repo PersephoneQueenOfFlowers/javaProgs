@@ -1,9 +1,11 @@
 package arraystack;
 
-/**
- *
- * @author sethschoenfeld
- */
+/********************************************************
+ *  @author- Seth Schoenfeld
+ *  @purpose- create a generic stack of references to objects
+ *  @inputs- any number of objects to be contained
+ *  @outputs- references to those objects last-in first-out
+/*********************************************************
 public class ArrayStack<T> implements StackInterface
 {
 //    private static boolean isEmpty;
